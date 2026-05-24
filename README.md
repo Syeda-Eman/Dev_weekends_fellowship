@@ -39,4 +39,4 @@ npx serve .
 
 ## Deployed app
 
-Link: pomodoro-zeta-swart.vercel.app
+(Link)[pomodoro-zeta-swart.vercel.app]
