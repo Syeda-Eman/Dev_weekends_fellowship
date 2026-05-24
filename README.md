@@ -36,3 +36,7 @@ npx serve .
 - **Daily history** — completed focus sessions stored in `localStorage`, auto-cleared on a new calendar day
 - **Responsive** — works from 360px phone to 1440px desktop
 - **Keyboard shortcuts** — `Space` to start/pause, `R` to reset
+
+## Deployed app
+
+Link: pomodoro-zeta-swart.vercel.app
